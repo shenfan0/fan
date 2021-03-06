@@ -1,5 +1,5 @@
 start.sh
-
+#######
 #0¡¢check user
 TIME_STAMP=`date +%Y%m%d%H%M`
 WHO=`whoami`
